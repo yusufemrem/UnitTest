@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\UnitTestUI\UnitTestUI.csproj" />
     <ProjectReference Include="..\UnitTest\UnitTestUI.csproj" />
   </ItemGroup>
 
